@@ -1,0 +1,60 @@
+{
+  "alignment_hash": "419e12b0cd8a14dfb8783979e913d481a01867101fda0c710adaebb4b4fd29ab",
+  "input": {
+    "source": [
+      {
+        "end": 2200,
+        "start": 0,
+        "text": "The studio opens at nine."
+      },
+      {
+        "end": 4500,
+        "start": 2500,
+        "text": "Bring your own paper."
+      },
+      {
+        "end": 7200,
+        "start": 5000,
+        "text": "Ink is provided free of charge."
+      }
+    ],
+    "source_language": "English",
+    "target": [
+      "工作室九点开门。",
+      "请自带纸张，油墨免费提供。"
+    ],
+    "target_language": "Chinese",
+    "title": "A small print studio"
+  },
+  "input_hash": "e25143edd576f6c79a6feb2f66249ee99a0164dec83d7ca10786c9514de7f683",
+  "labels": [
+    "E",
+    "N",
+    "N",
+    "N",
+    "N",
+    "N",
+    "N",
+    "N",
+    "N",
+    "E",
+    "N",
+    "N",
+    "E"
+  ],
+  "owner": "0x44b75c490a58790547d459fd1656e6472b1bf58d",
+  "paths": [
+    [
+      0,
+      9
+    ]
+  ],
+  "phase": "ALIGNED",
+  "possible_paths": [
+    [
+      0,
+      9
+    ]
+  ],
+  "slug": "studio-01"
+}

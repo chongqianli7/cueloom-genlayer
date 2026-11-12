@@ -1,0 +1,2 @@
+export const example={title:'A small print studio',source_language:'English',target_language:'Chinese',source:[{start:0,end:2200,text:'The studio opens at nine.'},{start:2500,end:4500,text:'Bring your own paper.'},{start:5000,end:7200,text:'Ink is provided free of charge.'}],target:['工作室九点开门。','请自带纸张，油墨免费提供。']};
+export const missing={...example,title:'Missing the ink detail',target:['工作室九点开门。','请自带纸张。']};

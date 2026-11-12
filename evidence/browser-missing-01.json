@@ -1,0 +1,32 @@
+{
+  "input": {
+    "source": [
+      {
+        "end": 2200,
+        "start": 0,
+        "text": "The studio opens at nine."
+      },
+      {
+        "end": 4500,
+        "start": 2500,
+        "text": "Bring your own paper."
+      },
+      {
+        "end": 7200,
+        "start": 5000,
+        "text": "Ink is provided free of charge."
+      }
+    ],
+    "source_language": "English",
+    "target": [
+      "工作室九点开门。",
+      "请自带纸张。"
+    ],
+    "target_language": "Chinese",
+    "title": "Missing the ink detail"
+  },
+  "input_hash": "46eafe5bfdc83d6d35bff2317251ceb4ccff89cf74cf0fa14c4dbf0bc79456e5",
+  "owner": "0x1c1a19f69a8c31315bae0df130d526f7ec6e435d",
+  "phase": "SEALED",
+  "slug": "browser-missing-01"
+}

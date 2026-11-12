@@ -1,0 +1,33 @@
+{
+  "network": "Stable Studionet",
+  "chainId": 61999,
+  "owner": "0x44b75c490a58790547d459fd1656e6472b1bf58d",
+  "calls": [
+    {
+      "method": "seal",
+      "args": [
+        "studio-01",
+        "{\"title\":\"A small print studio\",\"source_language\":\"English\",\"target_language\":\"Chinese\",\"source\":[{\"start\":0,\"end\":2200,\"text\":\"The studio opens at nine.\"},{\"start\":2500,\"end\":4500,\"text\":\"Bring your own paper.\"},{\"start\":5000,\"end\":7200,\"text\":\"Ink is provided free of charge.\"}],\"target\":[\"工作室九点开门。\",\"请自带纸张，油墨免费提供。\"]}"
+      ],
+      "hash": "0xae30af21a70fd85d4e1738e2f640feb26945e82d190140b2d8d416582aec96e6"
+    },
+    {
+      "method": "align",
+      "args": [
+        "studio-01"
+      ],
+      "hash": "0x673174680cc92b131e045f2f030ded639cffefceb1da5ffe2d6b25044f156acb"
+    },
+    {
+      "method": "publish",
+      "args": [
+        "studio-01",
+        "419e12b0cd8a14dfb8783979e913d481a01867101fda0c710adaebb4b4fd29ab",
+        0
+      ],
+      "hash": "0xb7b21dceda6427fd6285fe77edf679103af85945cc4996791a92e0c4b68c6530"
+    }
+  ],
+  "deployHash": "0x4abf84b7e560fc0780525b1f2e66b16f3559daba30452a095055c92fbcaaaf14",
+  "address": "0x156876241289D62940B5a45677140E292DB6F3A6"
+}

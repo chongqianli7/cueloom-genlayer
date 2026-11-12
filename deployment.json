@@ -29,5 +29,12 @@
     }
   ],
   "deployHash": "0x4abf84b7e560fc0780525b1f2e66b16f3559daba30452a095055c92fbcaaaf14",
-  "address": "0x156876241289D62940B5a45677140E292DB6F3A6"
+  "address": "0x156876241289D62940B5a45677140E292DB6F3A6",
+  "sourceSha256": "2278d24ced00e4cdcf324eeda6b3e2c17ff7e46a961d8c11d8f72ff99523d53c",
+  "browserExample": {
+    "owner": "0x73f11d63979aa34ca72efe05c43ffb9193e626b3",
+    "slug": "browser-gap-02",
+    "sealHash": "0xf6e70ef1226684cb4575a275b327cc112e5ee9216f60c34559b7ca828d960c41",
+    "alignHash": "0x40026bc3ed70daf9286f9ac1f411f2d260299e97f2eba597724fffa6d58b63bd"
+  }
 }

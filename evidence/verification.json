@@ -1,0 +1,65 @@
+{
+  "sourceSha256": "2278d24ced00e4cdcf324eeda6b3e2c17ff7e46a961d8c11d8f72ff99523d53c",
+  "receipts": [
+    {
+      "hash": "0x4abf84b7e560fc0780525b1f2e66b16f3559daba30452a095055c92fbcaaaf14",
+      "method": "deployment",
+      "status": "FINALIZED",
+      "execution": "SUCCESS",
+      "agreement": "MAJORITY_AGREE"
+    },
+    {
+      "hash": "0xae30af21a70fd85d4e1738e2f640feb26945e82d190140b2d8d416582aec96e6",
+      "method": "seal",
+      "status": "FINALIZED",
+      "execution": "SUCCESS",
+      "agreement": "MAJORITY_AGREE"
+    },
+    {
+      "hash": "0x673174680cc92b131e045f2f030ded639cffefceb1da5ffe2d6b25044f156acb",
+      "method": "align",
+      "status": "FINALIZED",
+      "execution": "SUCCESS",
+      "agreement": "MAJORITY_AGREE"
+    },
+    {
+      "hash": "0xb7b21dceda6427fd6285fe77edf679103af85945cc4996791a92e0c4b68c6530",
+      "method": "publish",
+      "status": "FINALIZED",
+      "execution": "SUCCESS",
+      "agreement": "MAJORITY_AGREE"
+    },
+    {
+      "hash": "0xf6e70ef1226684cb4575a275b327cc112e5ee9216f60c34559b7ca828d960c41",
+      "method": "seal",
+      "status": "FINALIZED",
+      "execution": "SUCCESS",
+      "agreement": "MAJORITY_AGREE"
+    },
+    {
+      "hash": "0x40026bc3ed70daf9286f9ac1f411f2d260299e97f2eba597724fffa6d58b63bd",
+      "method": "align",
+      "status": "FINALIZED",
+      "execution": "SUCCESS",
+      "agreement": "MAJORITY_AGREE"
+    }
+  ],
+  "published": {
+    "owner": "0x44b75c490a58790547d459fd1656e6472b1bf58d",
+    "slug": "studio-01",
+    "phase": "PUBLISHED",
+    "chosen": [
+      0,
+      9
+    ],
+    "vttSha256": "9aa17bf704ab5c694c94ac239b3691c8ca983522918845d1a62c5b055961ee0c",
+    "downloadMatches": true
+  },
+  "blocked": {
+    "owner": "0x73f11d63979aa34ca72efe05c43ffb9193e626b3",
+    "slug": "browser-gap-02",
+    "phase": "BLOCKED",
+    "completePaths": 0
+  },
+  "browserExportMatches": true
+}

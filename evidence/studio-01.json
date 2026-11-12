@@ -1,5 +1,9 @@
 {
   "alignment_hash": "419e12b0cd8a14dfb8783979e913d481a01867101fda0c710adaebb4b4fd29ab",
+  "chosen": [
+    0,
+    9
+  ],
   "input": {
     "source": [
       {
@@ -49,12 +53,14 @@
       9
     ]
   ],
-  "phase": "ALIGNED",
+  "phase": "PUBLISHED",
   "possible_paths": [
     [
       0,
       9
     ]
   ],
-  "slug": "studio-01"
+  "slug": "studio-01",
+  "vtt": "WEBVTT\n\n1\n00:00:00.000 --> 00:00:02.200\n工作室九点开门。\n\n2\n00:00:02.500 --> 00:00:07.200\n请自带纸张，油墨免费提供。\n\n",
+  "vtt_hash": "9aa17bf704ab5c694c94ac239b3691c8ca983522918845d1a62c5b055961ee0c"
 }

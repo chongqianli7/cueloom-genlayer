@@ -1,0 +1,50 @@
+{
+  "alignment_hash": "c04cc7b084fac41cad1b2dc01dae4c9a99c5455bd08614eedc0a4637f1f97f31",
+  "input": {
+    "source": [
+      {
+        "end": 2200,
+        "start": 0,
+        "text": "The studio opens at nine."
+      },
+      {
+        "end": 4500,
+        "start": 2500,
+        "text": "Bring your own paper."
+      },
+      {
+        "end": 7200,
+        "start": 5000,
+        "text": "Ink is provided free of charge."
+      }
+    ],
+    "source_language": "English",
+    "target": [
+      "工作室九点开门。",
+      "请自带纸张。"
+    ],
+    "target_language": "Chinese",
+    "title": "Missing ink detail"
+  },
+  "input_hash": "12099dc82297a6646e98c114f4c4b0f894479690fba3f6f361a05eafc12b72b3",
+  "labels": [
+    "E",
+    "N",
+    "N",
+    "N",
+    "N",
+    "N",
+    "N",
+    "N",
+    "E",
+    "N",
+    "N",
+    "N",
+    "N"
+  ],
+  "owner": "0x73f11d63979aa34ca72efe05c43ffb9193e626b3",
+  "paths": [],
+  "phase": "BLOCKED",
+  "possible_paths": [],
+  "slug": "browser-gap-02"
+}
